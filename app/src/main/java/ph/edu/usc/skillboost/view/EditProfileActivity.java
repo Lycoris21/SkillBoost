@@ -13,8 +13,6 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import ph.edu.usc.skillboost.databinding.ActivityEditProfileBinding;
-
 import ph.edu.usc.skillboost.R;
 
 public class EditProfileActivity extends BaseActivity {
